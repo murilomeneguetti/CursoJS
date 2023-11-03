@@ -64,6 +64,5 @@ function finalizar() {
         res.innerHTML += `<p>Somando todos os valores, temos ${soma}.</p>`;
         res.innerHTML += `<p>A média dos valores digitados é ${soma / qtd}.</p>`;
 
-
     }
 }

@@ -4,7 +4,7 @@ let res = document.querySelector('#res');
 let valores = [];
 
 function adicionar() {
-
+    
 }
 
 
